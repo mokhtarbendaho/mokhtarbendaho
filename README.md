@@ -11,7 +11,7 @@ Hello! I'm an Electrical and Instrumentation Engineer who loves to code and crea
 </div>
 
 ## My Projects
-[### Loop Packages Generator](https://github.com/mokhtarbendaho/Loop-Package-Generator)
+### [Loop Packages Generator](https://github.com/mokhtarbendaho/Loop-Package-Generator)
 The Loop Package Generator is your solution for effortlessly automating the creation of commissioning loop packages. It seamlessly incorporates all the essential files using Python, making the process simple, fast, and highly effective.
 **[READ MORE](https://github.com/mokhtarbendaho/Loop-Package-Generator)**
 
